@@ -1,0 +1,6 @@
+# Jeremy's DIGH5000 Notes
+##October 27th-28th
+- Set up git-hub repository
+- Difficulty creating an .io page for the repository so that it can be viewed publically
+- Created a new repo with .io addition
+- This will also act as a test document
